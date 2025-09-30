@@ -1,6 +1,6 @@
 ![image alt](https://github.com/vedkharat/vedkharat/blob/147af0fb0408d05bc97c16762cc3e2dca0bb8d91/Black%20and%20White%20Illustrative%20Linkedin%20Banner.png)
 # 💫 About Me:
-🖥️ Exploring:<br>Building practical AI solutions for real-world problems using deep learning and data analytics.<br><br>🤓 Open to:<br>Connecting with other learners and professionals interested in data-driven innovation.<br><br>🙌 Seeking:<br>New opportunities to apply data analyst and data science in different industries and business contexts.<br><br>📚 Expanding Skills:<br>Broadening my expertise in model deployment, MLOps, and interpretability.<br><br>💡 Chat with me about:<br>Tech communities, project teamwork, and creative uses of data science.
+🖥️ Exploring:<br>Building practical AI solutions for real-world problems using deep learning and data analytics.<br><br>🤓 Open to:<br>Connecting with other learners and professionals interested in data-driven innovation.<br><br>🙌 Seeking:<br>New opportunities to to learn new things and apply in different industries and business contexts.<br><br>📚 Expanding Skills:<br>Broadening my expertise in model deployment, MLOps, and interpretability.<br><br>💡 Chat with me about:<br>Tech communities, project teamwork, and creative uses of data science.
 
 
 ## 🌐 Socials:
